@@ -10768,9 +10768,9 @@ sver-compat@^1.5.0:
     es6-symbol "^3.1.1"
 
 systeminformation@^4.26.10:
-  version "4.34.16"
-  resolved "https://registry.npmjs.org/systeminformation/-/systeminformation-4.34.16.tgz#ab4d03965c36fb3d22b4441b4af9c72b8071b585"
-  integrity sha512-nD7dyW0V7VXZlq8RrpFqqCtSKgj06rnVI/BTH+ABsWCKp1c4rTVMrQK7tSFlBIOpIXoudrEnDftS1e7t71dAAw==
+  version "4.34.19"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-4.34.19.tgz#c5f066cc043482686d95bbc554d52e6ec9e42367"
+  integrity sha512-ssUYQ0s1FFeb8EGtyCX/41cC/XaF84gbNAUfaUTziibx+xCAaR0zrOy0yZlnUrsWDQ+snp/Utl8cx8IdtrevrA==
 
 table@^5.2.3:
   version "5.4.6"
